@@ -2,7 +2,7 @@ import json
 import os
 import pandas as pd
 import requests
-from apikey import API_KEY
+from apikey import CORE_API_KEY as API_KEY
 
 API_ENDPOINT = "https://api.core.ac.uk/v3/"
 
