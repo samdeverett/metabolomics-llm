@@ -48,6 +48,6 @@ We do not believe that this project advances either of these risks. Our reasons 
 
  **All these reasons aside, out of an abundance of caution, we are not yet publicly launching this application nor sharing the vector database of embeddings.** We do note, however, that money is really the only barrier to replicating our results given that the base LLM, corpus of training data, and tools for implementing RAG are all freely available and open-source.
 
- If you believe we are improperly assessing the risks of this project and/or have suggestions on how we may better evaluate its risk, please [let us know](samdev@mit.edu).
+ If you believe we are improperly assessing the risks of this project and/or have suggestions on how we may better evaluate its risk, please [let us know](mailto:samdev@mit.edu).
 
- If you are a researcher interested in gaining access to the application, please [send us a message](samdev@mit.edu).
+ If you are a researcher interested in gaining access to the application, please [send us a message](mailto:samdev@mit.edu).
