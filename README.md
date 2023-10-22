@@ -2,31 +2,33 @@
 
 Code for enabling retrieval-augmented generation (RAG) to power a metabolomics LLM.
 
-For a demo, check out `demo/demo.ipynb`.
+For a demo, check out `metabolomics-llm/demo/demo.ipynb`.
 
 ---
 
 ### Requirements
 
 #### API Keys
-* Put your CORE API key (which you can get [here](https://core.ac.uk/services/api#form)) in a file called `apikey.py`.
-* Put your [Pinecone](https://www.pinecone.io) API key and environment name in a file under the `demo` folder called `apikey.py`.
-* Put a Hugging Face token (which you can get [here](https://huggingface.co/settings/tokens)) in the `apikey.py` file under the `demo` folder.
+* Put your CORE API key (which you can get [here](https://core.ac.uk/services/api#form)) in a file called `apikey.py` under the `metabolomics-llm` folder.
+* Put your [Pinecone](https://www.pinecone.io) API key and environment name in a file called `apikey.py` under the `metabolomics-llm/demo` folder.
+* Put a Hugging Face token (which you can get [here](https://huggingface.co/settings/tokens)) in the `metabolomics-llm/demo/apikey.py` file.
 
 ---
 
 ### Usage
 
-`demo` contains a demo of how RAG is implemented to provide high-quality responses to metabolomics related questions.
+Code in `metabolomics-llm` folder.
 
-`data.py` contains code for pulling works from the [CORE](https://core.ac.uk) API.
-> Data for the query `"metabolomics AND language:English AND yearPublished:{year}"` can be found [here](https://drive.google.com/drive/folders/1DCWCLsF7ImHamxzl6tAz7nTZNO_dsvWt?usp=sharing) for years 2000 - 2023. If you'd like to use it, download the parquet files and place them in a `data` folder in the root directory.
+- `demo` contains a demo of how RAG is implemented to provide high-quality responses to metabolomics related questions.
 
-`eda.ipynb` details exploratory data analysis of the data.
+- `data.py` contains code for pulling works from the [CORE](https://core.ac.uk) API.
+    > Data for the query `"metabolomics AND language:English AND yearPublished:{year}"` can be found [here](https://drive.google.com/drive/folders/1DCWCLsF7ImHamxzl6tAz7nTZNO_dsvWt?usp=sharing) for years 2000 - 2023. If you'd like to use it, download the parquet files and place them in a `data` folder in the `metabolomics-llm` folder.
 
-`preprocessing.ipynb` handles processing the data based on insights learned from EDA to prepare for RAG.
+- `eda.ipynb` details exploratory data analysis of the data.
 
-`utils.py` provides helper functions.
+- `preprocessing.ipynb` handles processing the data based on insights learned from EDA to prepare for RAG.
+
+- `utils.py` provides helper functions.
 
 ---
 
