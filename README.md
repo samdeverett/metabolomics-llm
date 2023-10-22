@@ -2,7 +2,7 @@
 
 Code for enabling retrieval-augmented generation (RAG) to power a metabolomics LLM.
 
-For a demo, check out `metabolomics-llm/demo/demo.ipynb`.
+For a demo, check out [`metabolomics-llm/demo/demo.ipynb`](https://github.com/samdeverett/metabolomics-llm/blob/main/metabolomics-llm/demo/demo.ipynb).
 
 ---
 
