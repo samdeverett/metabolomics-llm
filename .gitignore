@@ -1,6 +1,7 @@
 apikey.py
 data/
 .DS_Store
+todo.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
