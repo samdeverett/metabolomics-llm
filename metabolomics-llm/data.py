@@ -61,7 +61,7 @@ def extract_info(hit):
 if __name__ == '__main__':
     # create dataset per year
     start_year = 2000
-    end_year = 2012
+    end_year = 2023
     for year in range(start_year, end_year + 1):
         print(f"\n{year}\n")
         if os.path.isfile(f"data/{year}.parquet"):
