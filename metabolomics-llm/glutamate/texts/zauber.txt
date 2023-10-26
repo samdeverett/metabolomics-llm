@@ -1,0 +1,311 @@
+Abstract
+As noninvasively accessible body fluid, saliva is of growing interest in diagnostics. To exemplify the diagnostic potential of saliva, we used a mass spectrometry-based approach to gain insights into adaptive physiological processes underlying long-lasting endurance work load in a case study. Saliva was collected from male and female athlete at four diurnal time points throughout a 1060 km nonstop cycling event. Total sampling time covered 180 h comprising 62 h of endurance cycling as well as reference samples taken over 3 days before the event, and over 2 days after. Altogether, 1405 proteins and 62 metabolites were identified in these saliva samples, of which 203 could be quantified across the majority of the sampling time points. Many proteins show clear diurnal abundance patterns in saliva. In many cases, these patterns were disturbed and altered by the long-term endurance stress. During the stress phase, metabolites of energy mobilization, such as creatinine and glucose were of high abundance, as well as metabolites with antioxidant functions. Lysozyme, amylase, and proteins with redox-regulatory function showed significant increase in average abundance during work phase compared to rest or recovery phase. The recovery phase was characterized by an increased abundance of immunoglobulins. Our work exemplifies the application of high-throughput technologies to understand adaptive processes in human physiology.
+
+Abbreviations
+
+bPRPs
+basic proline rich proteins
+HMW
+high molecular weight fraction
+LMW
+low molecular weight fraction
+1 Introduction
+Saliva is a complex body fluid with heterogeneous origin. Its compounds are secreted by distinct salivary glands and to a large extent are also derived from blood through cellular ultrafiltration. Up to 50% of the salivary proteins can have their origin in the blood serum, while 34% of the proteins are secreted by and present in salivary glands 1. Therefore, saliva has the potential to become a reliable alternative to blood screenings, when it comes to looking for disease or stress markers 2. Several other origins of saliva components include expectorated bronchial and nasal secretions, food, and microorganisms. Saliva flow is inducible by several external stimuli, such as taste or smell, as well as by internal stimuli, such as hormones or neurotransmitters. The bulk of gland-derived proteins of the saliva proteome serves in defense processes or in control of the microflora in the oral cavity. Other functions include binding of Ca2+, humidification of the oral cavity, and digestion of food components 2, 3.
+
+Saliva is mainly composed of water and protein, small molecules and ions only make up 0.5% on a weight basis 4. Several studies revealed an important role of the peptidome in saliva involving low molecular peptides smaller than 10 kDa 5, 6. The proteolysis of high molecular weight proteins is the origin of these peptides both inside cells and in the oral cavity 7, 8. Due to the possibility that these proteolytic events can provoke regulatory changes in activity of proteins and peptides, this low molecular saliva fraction has been specifically considered in the measurements and analysis of salivary samples 8.
+
+Beside the analysis of the proteome and peptidome also the metabolome reveals interesting insights into systemic processes visible in saliva. Several specific small molecules have been measured in saliva low throughput approaches 9-13, whereas high throughput methods have not yet been widely applied to this body fluid 14. Especially steroids are able to diffuse almost unhinderedly through membranes 15, 16 and are therefore also present in saliva 17, 18. In their free form, salivary concentration of several steroids correlates with the respective concentrations in blood and can give an impression of the physiological status of the individual under observation. Thus, salivary androstenedione, precursor of testosterone and an androgen itself, has been used as an indicator of the intensity of anabolic processes, whereas cortisol as a known stress maker provides information about the activity of catabolic processes in humans 19, 20.
+
+Saliva as a whole, as well as gland-specific salivary composition, has in the past been well characterized using a variety of proteomic approaches 6, 7, 21-24. However, comparative and diagnostic global profiling studies involving saliva sampled under different physiological conditions are still rare. In recent studies, the diagnostic potential of saliva has been discovered in approaches to identify marker proteins for oral diseases 25, metabolic disorders 26, or even cancers 27.
+
+With respect to physical exercise, cortisol and testosterone levels in saliva were found to correlate well to blood levels 28 and in combination with immunoglobulin A abundance have served as markers for stress responses in context of various sports activities 29, 30. However, a full proteome profiling analysis combined with an untargeted analysis of salivary small molecules in individuals subjected to physical exercise has not yet been carried out. Several systemic processes are expected to influence protein abundance patterns as well as the metabolite composition when individuals undergo long-lasting endurance work. These adaptive processes include adjustments in quality and quantity of energy supply pathways, adaptations to changed oxygen consumption over time, and adaptations to increased demineralization, dehydration, and metabolic imbalance. Altogether it is likely that long-term endurance work causes measurable effects in the proteome, peptidome, and metabolome of saliva. Thus, the following case study will serve as a proof-of-principle of an individualized long-term profiling analysis of saliva composition during rest, endurance work, and recovery and by covering multiple analytical levels. New insights into the human body's capacity to adapt to and recover from long-term endurance workloads are discussed.
+
+2 Materials and methods
+2.1 Endurance cycling
+
+The endurance cycling event over a distance of 1060 km followed the rules of “Brevets de Randonneurs Mondiaux,” which essentially means that riders were self-supplied and self-supported, without accompanying support crew. Supplies were taken from public places, such as gas stations, restaurants, and supermarkets. The course was not marked or secured, riders were supplied with a map and road directions. The two athletes, male and female, for whom a saliva profile was analyzed throughout the event, were riding on a tandem (Rotor Bikes, Germany). Thus, short rest breaks and food supplies were taken simultaneously. The riders took 62 h to complete the course. A 4-h sleep break was taken after 36 h.
+
+2.2 Sampling
+
+Saliva samples were taken using the sampling System “Salivette” (Sarstedt, Germany) with a low-adsorptive polypropylene-based swab, specialized for cortisol analysis, according to the instructions of the manufacturer. Briefly, after rinsing the mouth with plain water, the swab was chewed for about 1 min to stimulate salivation. The chewing procedure was carried out in the same way during all samplings by moving the sponge from right cheek to below tongue and to left cheek. The swab was then collected in the supplied centrifuge tube and saliva was collected from the swab by centrifugation. During sampling, the swab has not been touched with fingers. Saliva was conserved by providing 0.5 mL 4% acetic acid in the collection tube. All samples were then stored at −80°C until further processing.
+
+2.3 Sampling scheme during endurance cycling
+
+During the endurance cycling event, saliva samples were taken four times a day at 6:00, 12:00, 18:00, and 24:00. In addition, saliva samples were taken at 6:00 and 18:00 for up to 4 days before the endurance cycling event and for up to 2 days after (Table 1). Saliva samples were generally taken before food intake, and drinking of water or other liquids was avoided at least 20 min before sampling time points. During endurance cycling, meals were taken at 20, 36, 50, and 56 h after start, during rest phase and recovery, meals were taken at 8:00, 12:00, and 19:00 during the day. Liquids were taken as needed in various forms (water, fruit juice, tea, milk, soft drinks), but generally not within 20 min before sampling time. During the endurance phase, acetylsalicylic acid in form of Aspirin was taken at 0 h, as well as at 20, 32, 44, and 56 h after start in order to suppress inflammatory responses. At 36 h after start, riders took a short sleep break of 4 h. Sample tubes taken during the cycling event were kept cool (4–8°C) in a cooling pouch and collected for freezing at regular intervals within 4 h.
+
+Table 1. Overview of the samples taken of the male and female athlete throughout the 1060 km randonneur style cycling event
+Date	Time of day (h)	Cumulative time (h)	Phase	Saliva amount (g)
+F	M
+11.06.2007	19:00	−63	Rest	1.6	
+11.06.2007	23:00	−59	Rest	2.05	
+12.06.2007	7:00	−51	Rest	1.22	
+12.06.2007	12:00	−46	Rest	1.88	
+12.06.2007	19:00	−39	Rest	2.46	
+12.06.2007	22:00	−36	Rest	2.24	
+13.06.2007	6:00	−28	Rest	1.66	
+13.06.2007	12:00	−22	Rest	2.2	
+13.06.2007	19:00	−15	Rest	2.18	
+13.06.2007	22:00	−12	Rest	1.43	1.68
+14.06.2007	6:00	−4	Rest	2.51	1.7
+14.06.2007	10:00	0	Rest	1.31	1.45
+14.06.2007	12:00	2	Stress	1.32	1.82
+14.06.2007	18:00	8	Stress	1.43	1.93
+14.06.2007	0:00	14	Stress	1.38	1.65
+15.06.2007	6:00	20	Stress	1.59	2.01
+15.06.2007	12:00	26	Stress	1.38	2.16
+15.06.2007	18:00	32	Stress	1.06	1.79
+15.06.2007	0:00	38	Stress	1.39	1.5
+16.06.2007	6:00	44	Stress	1.91	1.43
+16.06.2007	12:00	50	Stress	2.09	2.63
+16.06.2007	18:00	56	Stress	1.86	2.19
+16.06.2007	0:00	62	Stress	2.1	1.96
+17.06.2007	8:00	70	Recovery	1.41	1.8
+17.06.2007	23:00	85	Recovery	2.31	2.19
+18.06.2007	7:00	93	Recovery	1.62	0.98
+18.06.2007	0:00	110	Recovery	2.02	1.88
+19.06.2007	8:00	118	Recovery	2.23	1.71
+2.4 Protein gel blot (Western blots)
+
+Undigested saliva protein (20 μg) was boiled for 10 min in 5× loading buffer (125 mM Tris pH 6.8, 25% (v/v) glycerol, 5% (v/v) SDS, 0.1% (w/v) Bromophenol Blue, 200 mM DTT). Protein was subsequently separated on a Bis–Tris gradient gels ranging from 3–14% acrylamide (NUPAGE, Invitrogen, Germany). Protein was blotted onto nitrocellulose membrane. The membrane was blocked in 5% (w/v) milk TBS-T (140 mM NaCl, 2.5 mM KCl, 25mM Tris-HCl pH 7.4, 0.05% Tween20) over night at 4°C. Primary antibodies (Abcam, UK) were added to the blocking solution at a concentration recommended by the manufacturer and incubated at room temperature for at least 1 h under constant shaking. The secondary alkaline phosphatase-coupled antibodies (donkey anti-sheep for AMY1 and goat anti-rabbit for the others) were used at a concentration of 1:30 000 for 1 h at room temperature. For detection, blots were incubated with chemiluminescence detection solution (CDP-STAR; Perkin Elmer, Waltham, MA, USA) and light emission was documented on X-ray films. The following primary antibodies (Abcam) were used: ab8944 (AMY1) and ab10774 (LSM4).
+
+2.5 Sample preparation
+
+The sample preparation procedure allowed obtaining fractions for protein analysis, peptide analysis, and metabolite analysis from each sample 31. Frozen saliva was thawed and proteins were then precipitated from the saliva by adding five volumes of ice-cold methanol containing 13C-sorbitol (5 μg mL−1) as an internal standard for metabolite anaysis. After centrifugation for 1 h at 30 000 × g, protein pellets were resuspended in 6 M urea, 2 M thiourea, 10 mM Tris-HCl pH 8. Protein samples were then size separated using ultrafiltration spin columns with a molecular weight cutoff of 3000 Da (Vivaspin 3000, Sartorius, Germany). The retentate, which contained mainly protein of high molecular weight, was further processed for in-solution tryptic protein digestion. The low molecular weight filtrate was reduced, alkylated, and desalted over C18 and directly analyzed by LC-MS/MS. This fraction contained small peptides. The supernatant of the initial methanol precipitation contained metabolites, steroids, and other small molecules. This fraction was processed for the GC-MS analysis. Small peptides that did not precipitate in methanol and remained in the supernatant were lost for quantitative analysis. The general sampling and processing workflow is outlined in Fig. 1.
+
+ Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Workflow of saliva sampling and sample processing.
+2.6 In-solution protein digest for LC-MS
+
+For each sample, 50 μg of protein were digested in-solution with trypsin in presence of 6M urea, 2M thiourea, 10 mM Tris-HCl pH 8 after reduction using DTT and alkylation in presence of iodoacetamide. If possible, each saliva sample was prepared in triplicates for MS/MS analysis. Tryptic digests were acidified to a final concentration of 1% trifluoracetic acid and were then desalted over C18 tips 32.
+
+2.7 Derivatization of metabolites for GC-MS
+
+Metabolite-containing methanolic extracts were lyophilized and derivatized according to the procedure described 33. Briefly, freshly prepared methoxyamine hydrochloride (20 mg/mL in pyridine) and N-methyl-N-(trimethylsilyl)-trifluoroacetamide (20 mg/mL) was added to the samples. After shaking for 1.5 h at 30°C, two volumes of a preheated (70°C) mixture of alkanes were added as standards for calculation of retention time indices.
+
+2.8 Steroid analysis
+
+Cortisol, Dehydroepiandrosterone and Androstenedion levels in saliva were detected with commercially available ELISA kits (Demeditec, Germany) according to the instructions. Sample aliquots were vacuum-dried and resuspended with supplied Tris buffer, pH 7. Supplied standard solutions were used for quantitation.
+
+2.9 LC-MS/MS analysis of peptides
+
+Peptide mixtures were analyzed by LC-MS/MS using nanoflow HPLC (Proxeon Biosystems, Denmark) and a linear ion trap instrument (LTQ-Orbitrap, Thermo Scientific, USA) as mass analyzer. Peptides were eluted from a 75-μm analytical column (Reprosil C18, Dr. Maisch, Germany) on a linear gradient running from 10 to 30% ACN 90 min and sprayed directly into the LTQ-Orbitrap mass spectrometer. Proteins were identified by MS/MS by information-dependent acquisition of fragmentation spectra of multiple-charged peptides. Full scans were obtained at a resolution of FWHM (full width at half maximum) of 60 000, CID fragment spectra were acquired in the LTQ.
+
+Fragment MS/MS spectra from raw files were extracted as DTA files and then merged to peak lists using default settings of DTASuperCharge version 1.19 (http://www.msquant.sourcforge.net) with a tolerance for precursor ion detection of 50 ppm. Spectra were searched against the Swiss-Prot Human database (20331 entries; www.uniprot.org) using the Mascot algorithm (version 2.2.0; Matrix Science, UK, www.matrixscience.com). The following search parameters were applied: for retentate samples, trypsin as cleaving enzyme, peptide mass tolerance 10 ppm, MS/MS tolerance 0.8 Da, one missed cleavage allowed. Carbamidomethylation of cysteine was set as a fixed modification, and methionine oxidation was chosen as variable modification. For peptide analysis of the undigested low molecular weight fraction, no enzyme was selected as cleaving enzyme, the other parameters remained the same. In all cases, only peptides with a length of more than five amino acids were considered.
+
+In general, peptides were accepted without manual interpretation if they displayed a Mascot score greater than 32, as defined by Mascot p <0.05 significance threshold for tryptic peptides. For undigested low molecular weight peptide fraction, peptides were accepted with a Mascot score greater than 49, as significance threshold for undigested peptides. Peptide assignment to proteins was done according to the Mascot default settings, i.e. each redundant peptide was primarily assigned to the highest scoring protein. Additional, lower scoring protein isoforms were only assigned the proteotypic peptides. For quantitative analysis of time profiles, only proteotypic peptides were used if possible. Therefore, in few cases, only one proteotypic peptide was available for quantitation (five proteins, marked with * in result tables). In other specific cases, no proteotypic peptides were suited for quantitative analysis, and in these cases, quantitation was done on all peptides available (35 proteins, marked with “#” in result tables). A full list of all identified proteins and their peptides is summarized in Supporting Information Table S4, also listing the number of peptides used for quantitation in each protein. For quantitative analysis of relative abundance of each protein within the saliva samples, the emPAI values were used 34. In this case, all identified spectra from all peptides assigned to one protein were used. Samples were measured as three technical replicates.
+
+2.10 GC-TOF-MS analysis of metabolites
+
+GC-TOF-MS-based metabolite profiling performed according to the procedure described previously 33. Briefly, 1 μL of sample was injected at 230°C into a GC 6890 (Agilent Technologies, Palo Alto, USA) gas chromatograph mounted with a Rtx-5Sil MS capillary column, 30 m × 0.25 mm inner diameter with 0.25 μm film thickness, and a 10 m integrated guard column (Restek, Bad Homburg, Germany). The temperature program comprised 1 min at 70°C, a 9°C min−1 ramp to 350°C, and 5 min at 350°C. The transfer line to the mass spectrometer was set to 250°C. Carrier gas was helium at a flow rate of 0.6 mL min−1 and operated at constant flow. A TOF mass spectrometer was used, Pegasus III TOF-MS system (Leco, St. Joseph, MI, USA) with the electron impact ionization source set to −70 eV and 250°C. Data acquisition was set to 20 spectra s−1 and the mass range restricted to m/z = 70–600. All other settings of the mass spectrometer were according to manufacturer's instructions. Chromatograms were acquired with ChromaTOFTM software (LECO, St. Joseph, USA). Samples were measured in three technical replicates.
+
+2.11 Data processing and quantitation
+
+2.11.1 Protein and peptide data
+
+Quantitative information was taken from extracted ion chromatograms of each identified peptide following a label-free approach. Retention time correlation between individual samples was applied 35 in order to increase proteome coverage for quantitation. Peptides identified in less than half of all time points within one physiological phase (rest, stress, recovery) were excluded. Also peptides with a redundant sequence within the known human proteome were excluded except if they were the only peptides identified for a given protein.
+
+For each time point, sample of up to three technical replicate measurements was analyzed. To combine information from these three replicates, ion intensities of each peptide ion species (i.e. each distinct m/z value) were normalized to the mean value of total ion intensities within each replica set. Common peptide intensities were averaged between the replica sets before addition to the total list of peptides for each time point. For each sample within the time course, ion intensities of individual peptides were then standardized on the mean value of ion intensities within the “rest phase.” Subsequently all standardized peptide ion intensities were averaged within each protein for each sample per time point to yield the protein average abundance ratios relative to rest phase. Quantitation precision depended on peptide ion intensity 36, and was independent of protein abundance. In those cases, where proteins were only identified and quantified in the stress phase, abundance ratios of “stress to rest phase” were set to a value of 10.
+
+2.11.2 Abundance analysis of proteins
+
+For the assessment of protein abundance variation between male and female individuals, proteins were quantified based on the emPAI values 34, which were converted to an abundance fraction by dividing emPAI values of each protein in a given sample by the sum of emPAI values within each sample. These normalized values were then averaged across independent saliva measurements derived from the same person (intraindividual variation), or across saliva analyses of different persons (interindividual variation). Standard deviations were expressed as percentage coefficients of variation.
+
+2.11.3 GC-MS metabolite data
+
+The vendor-specific Chromatof Software (Leco, USA) has been used for baseline correction of the raw data. All expected n-alkanes and there retention time indexes were identified and used for the calculation of specific retention indexes of each measurement. Further processing of the raw data and annotation of metabolites with the Golm Metabolome Database (http://csbdb.mpimp-golm.mpg.de/csbdb/gmd/gmd.html; 37, 38) was done with the software Tagfinder 39. All intensities within each measurement were normalized to the respective intensities of labeled 13C Sorbitol.
+
+2.12 Statistical analysis
+
+All further analysis and was done with the statistical software R 40. A t-test of rest phase against stress phase was applied for the protein data as well as for the metabolite data. For this analysis, averages across each phase (rest, stress, recovery) were calculated from protein abundance ratios. On a merged data set, including metabolites and proteins, a k-means clustering was applied using average distance matrix. A total of 15 clusters were then by hand assigned to one of the three phases “rest,” “stress,” and “recovery” according to their local abundance maxima. Fisher–Exact tests were carried out to identify proteins and protein functions overrepresented in each of the clusters. For the proteins, a functional characterization based on GO terms was done using the PANTHER database 41.
+
+3 Results
+3.1 Proteins abundance distribution
+
+In the sample series of the long-term endurance cycling event, a total of 1191 proteins were detected, and 232 proteins were quantitatively analyzed across the whole sampling time period. Between the two individuals monitored over a total of 180 h, there is an overlap of 50% of the proteins identified in saliva (Supporting Information Fig. S1). Most of these proteins (1073 proteins) were identified in the high molecular weight fraction, but 164 proteins were exclusively identified in the low molecular weight fraction containing mainly peptides smaller than 3000 kDa. About 100 proteins were detected in both fractions suggesting that some of these proteins are synthesized as a protein precursor and are then being cleaved by a protease. Among these were cystatins, prolactins, beta globulins, and mucins, proteins known to be synthesized in precursor forms.
+
+Few proteins were identified with consistent high abundance, such as amylase isoforms, cystatins, carbonic anhydrase, or lysozyme (Supporting Information Fig. S2). The majority of proteins occur at rather low abundance, such as signaling proteins or growth factors (Supporting Information Table S1a). In total, the proteins analyzed cover an abundance range of about three to four orders of magnitude.
+
+3.2 Assessment of variation of protein abundance between and within individuals
+
+In order to assess the variation of protein abundance between individuals, five males and five females were sampled at the same time of day and the protein abundance distribution based on emPAI values was assessed 34. In addition, protein abundance variation within one male and female individual was analyzed from independent samples taken at the same time of day over a period of 5 days.
+
+High abundant proteins in general showed average variations of lower than 20%, while larger scatter in variation was observed for low abundant proteins (Fig. 2). Proteins with highest abundance variation between different individuals were heat shock proteins, small salivary protein S-100, and enzymes, such as phosphoglycerate kinase or aldolase. Proteins with lowest variation between individuals were receptor proteins and regulatory proteins (Fig. 2A; Supporting Information Table S1b). Proteins with highest variation within the same individuals were also enzymes. In contrast, collagen, filamin, laminin were among the proteins with the lowest intraindividual abundance variation (Fig. 2B; Supporting Information Table S1c). The hemoglobin subunits detected in salivary samples in one individual may originate from traces of blood in the mouth, and were therefore not considered in the comparisons of salivary proteins between different individuals.
+
+ Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+Abundance variation of proteins between and within individuals for male and female. (A) Scatter plot of average protein abundance and the calculated coefficient of variation between sets of five male and five female individuals. (B) Scatter plot of average protein abundance and the calculated coefficient of variation of proteins sampled five times at the same time of day within one male and female individual. (C) Boxplot summarizing the coefficients of variation for each protein in the analysis between individuals and within individuals for male and female.
+Absolute abundance profiling of metabolites was not possible since no standard reference substance had been spiked into the samples. Absolute quantification solely based on metabolite ion intensities acquired by GC-TOF cannot be done without specific standards. However, metabolite profiles showed stronger individual variation compared to proteins (see below).
+
+In general, average protein abundance variation was around 20%, which is within the precision of the label-free quantification method used (Fig. 2C). Abundance variations within multiple samples taken on the same time of day from the same individual showed about half of the abundance variation observed in samples taken at the same time of day from different individuals. Therefore, in the following, our study focused on monitoring two individuals across a long sampling time frame to address processes of physiological adaptation to endurance work.
+
+3.3 Diurnal rhythms
+
+Most of proteins quantified over the 180 h of rest, physical exercise (“stress”), and recovery showed a diurnal rhythms in their abundance profiles over the four daily time points (6:00, 12:00, 18:00, 0:00). This diurnal pattern was most pronounced in the rest phase before the endurance cycling event (Fig. 3, Supporting Information Fig. S3). The majority of proteins displayed an abundance peak in the morning or during the day. Examples of such proteins with an abundance peak during the day were amylase AMY1 (Fig. 3A) and ProteinS100-A9. In contrast, other proteins, such as Alpha-1-acid glycoprotein precursors (Fig. 3B), and Ribonuclease T2 precursor were found to be most abundant in the evening or at night, particularly in the rest phase and recovery phase (Supporting Information Fig. S3). The diurnal abundance variation particularly during rest phase for AMY1 was confirmed by protein gel blotting (Supporting Information Fig. S6). Then, amylase was found highly abundant in samples collected during the morning and midday and lower at night.
+
+ Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+Diurnal response curves over 180 h separated into rest phase, stress phase, and recovery phase. Intensity profiles indicate relative changes in average ion intensity of each time point relative to the averaged ion intensities of the rest phase. (A) Amylase (AMY1) with higher abundance during the day. (B) Alpha-1-acidic glycoprotein 2 (A1AG2) with highest abundance during the night in rest and recovery phase. (C) Metabolite glucose with diurnal abundance patterns during rest phase. (D) Citric acid with highest abundance during stress phase. Protein intensities were averaged for each individual within each “phase” (rest, stress, work), and these averages are indicated as bars with standard deviation as error bars. Phases are indicated by vertical lines, time point 0 indicates start of the cycling event. White and gray background displays day and night change, respectively. Red: female athlete, Blue: male athlete.
+The diurnal abundance pattern during the rest phase was also observed for some metabolites, such as glucose (Fig. 3C) and creatinine involved in energy mobilization, or alanine (Supporting Information Fig. S3). Also for these metabolites, the diurnal patterns were abolished or changed during the stress phase. Other metabolites with diurnal abundance variation were xylitol, uridine, ribose, putrescine, 1,3-diamino-Propan, methionin, myo-Inositol, galactose, fucose, beta-alanine, and unidentified compounds NA 2241.55, NA 1947.04, and NA 1797.74.
+
+3.4 Protein and metabolite dynamics during endurance work
+
+A principle component analysis of protein and metabolite abundances at the different sampling time points across the 180 h of rest phase, work, and recovery phase revealed that the protein abundance pattern of all stress phase samples grouped together independently of the time of day samples were taken. Thus, physical stress during endurance work was the dominating separating variable that overruled diurnal patterns (Supporting Information Fig. S3). This suggests that adaptive processes during physical endurance work can influence typical diurnal rhythms of salivary protein and metabolite abundances.
+
+In a comparison of average protein and metabolite abundances between the stress phase of endurance cycling and the preceding rest phase or the following recovery phase, five proteins (AMY1, YP003, SMR3B, WDR13, and LSM4) showed a significant (p <0.05, t-test) abundance increase in the stress phase compared to rest and recovery phase in both individuals tested (Supporting Information Table S2). For these proteins, the abundance increased over the first 24 h of endurance cycling and decreased again after completion of the cycling event. Furthermore, AMY1 and YP003 showed diurnal abundance variations with lowest abundances at midnight during the rest phase, and this pattern seemed to be altered or abandoned during the endurance workload (Fig. 3; Supporting Information Fig. S3). In total, 44 proteins showed at least a significant alteration in the stress phase for one individual with a similar trend in the other individual (Table 2). Most proteins and metabolites showed an increase in abundance during the stress phase. Only 13 proteins, such as several isoforms of immunoglobulins decreased in abundance during the phase of endurance cycling (Table 2; Supporting Information Table S2). For proteins amylase and LSM4, the change in protein abundance in endurance phase and recovery phase compared to the rest phase was confirmed by protein gel blot (Supporting Information Fig. S6). For amylase, the diurnal differences weaken, while LSM4 is particularly induced during long-lasting endurance workload.
+
+Table 2. List of proteins and metabolites with at least one significant alteration of greater than twofold in average intensity during stress phase of endurance cycling compared to rest phase
+Fraction	Accession	Description	Response trend
+Female	Male
+Proteins				
+HMW	A1AG1	Alpha-1-acid glycoprotein 1 precursor	↓⋆	↔
+HMW/LMW	AMY1	Alpha-amylase 1 precursor	↑⋆	↑⋆⋆
+HMW	ANXA1	Annexin A1	↔	↑⋆
+HMW	ANXA2	Annexin A2	↔	↑⋆
+HMW	ANXA3	Annexin A3	↔	↑⋆⋆
+HMW	BASP	Brain acid soluble protein 1	↓⋆⋆	NA
+HMW	BPIL1	Bactericidal/permeability-increasing protein-like 1 precursor	↑	↑⋆
+HMW	CDC5L	Cell division cycle 5-like protein	↓⋆	↔
+LMW	CDN2B	Cyclin-dependent kinase 4 inhibitor B	NA	↑⋆
+HMW	CRNN	Cornulin	↓⋆	↔
+HMW	CYTB	Cystatin-B	↓⋆	↔
+LMW	CYTN	Cystatin-SN precursor	↑	↑⋆
+HMW/LMW	CYTT	Cystatin-SA precursor	↑	↑⋆⋆
+HMW	DCXR	L-xylulose reductase	↑	↑⋆
+HMW	ECM1	Extracellular matrix protein 1 precursor	↔	↑⋆
+HMW	ECP	Eosinophil cationic protein precursor	↑	↑⋆
+LMW	ELP3	Elongator complex protein 3	NA	↑⋆
+LMW	ENOA	Alpha enolase	↔	↑⋆⋆
+LMW	FABP5	Fatty acid binding protein, epidermal	↔	↑⋆⋆
+LMW	H10	Histone H1.0	NA	↑⋆
+LMW	H12	Histone H1.2	↔	↑⋆
+LMW	HIS3	Histatin-3 precursor	↔	↑⋆
+HMW	HV307	Ig heavy chain V-III region CAM	↓⋆	↓
+HMW	KV104	Ig kappa chain V-I region CAR	↓	↑⋆
+HMW	KV105	Ig kappa chain V-I region DEE	↓⋆	↑
+HMW	KV204	Ig kappa chain V-II region TEW	↓⋆⋆	↓
+HMW	LSM4	U6 snRNA-associated Sm-like protein LSm4	↑⋆	↑⋆
+HMW	LYSC	Lysozyme C precursor	↑⋆⋆	↑
+HMW	MUC5B	Mucin-5B precursor	↑⋆	↔
+HMW	PERL	Lactoperoxidase precursor	↑	↑⋆
+LMW	PRB4	Basic salivary proline-rich protein 4 precursor	↓⋆	↑⋆
+HMW	PROL4	Proline-rich protein 4 precursor	↔	↑⋆
+LMW	PRP1	Basic salivary proline-rich protein 1 precursor	↑⋆	NA
+LMW	PRPC	Salivary acidic proline-rich phosphoprotein 1/2 precursor	↑	↑⋆
+HMW	PRTN3	Myeloblastin precursor	↔	↑⋆
+LMW	RL3	60S ribosomal protein L3	↔	↑⋆
+LMW	RS23	40S ribosomal protein S23	↑	↑⋆⋆
+LMW	S10AC	Protein S100-A12	↔	↑⋆
+HMW	SBSN	Suprabasin precursor	↓⋆	↓
+LMW	SMR3B	Submaxillary gland androgen-regulated protein 3 homolog B precursor	↑⋆	↑⋆
+HMW	SPLC2	Short palate, lung, and nasal epithelium carcinoma-associated protein 2 precursor – Homo sapiens (Hu)	↑⋆	↔
+LMW	SPRL1	SPARC-like protein 1 precursor	↓⋆	↑
+LMW	SPTB1	Spectrin beta chain, erythrocyte	↔	↑⋆⋆
+LMW	STAT	Statherin precursor	↑	↑⋆
+LMW	T11E2	Transmembrane protease, serine 11E2 precursor	NA	↑⋆
+HMW	THIO	Thioredoxin	↓⋆	↓
+HMW	WDR13	WD repeat-containing protein 13	↑	↑⋆
+HMW	YP003	Uncharacterized protein UNQ773/PRO1567 precursor	↑⋆⋆	↑⋆
+HMW	ZA2G	Zinc-alpha-2-glycoprotein precursor	↔	↑⋆
+Metabolites				
+A164014	Acetic acid, 4-hydroxyphenyl-(2TMS)	↔	↓⋆
+A142001	Alanine [+CO2] (2TMS)	↑⋆	↔
+A147006	Aminomalonic acid (3TMS)	↑⋆	↔
+A152002	Aspartic acid (3TMS)	↑⋆	NA
+A164003	Benzoic acid, 4-hydroxy-(2TMS)	↑⋆⋆	↔
+A182004	Citric acid (4TMS)	↑⋆⋆	↑⋆⋆
+A153013	Creatinine (2TMS)	↑⋆	↔
+A150002	Erythritol (4TMS)	↑⋆	↑
+A154001	Erythronic acid (4TMS)	↑⋆⋆	↔
+A188004	Fructose (1MEOX) (5TMS) BP	↑⋆⋆	↑⋆
+A188001	Galactose (1MEOX) (5TMS) MP	↑⋆⋆	↑
+A200001	Gluconic acid (6TMS)	↑⋆⋆	↑⋆
+A207012	Glucosamine, N-acetyl-(1MEOX) (4TMS)	↑⋆⋆	↔
+A189002	Glucose (1MEOX) (5TMS) MP	↑⋆	↔
+A163001	Glutamic acid (3TMS)	↑⋆⋆	↑
+A160005	Glutamine [-H2O] (3TMS) MP	↑⋆	↓
+A158010	Glutaric acid, 2-hydroxy-(3TMS)	↑⋆⋆	↑
+A158004	Glutaric acid, 2-oxo-(1MEOX) (2TMS) MP	↑⋆⋆	↑
+A209002	Inositol, myo-(6TMS)	↑⋆	↑
+A291002	Isomaltose (1MEOX) (8TMS) BP	↑⋆⋆	↑⋆
+A158013	Lactic acid, 3-phenyl-(2TMS)	↑⋆⋆	↑
+A149001	Malic acid (3TMS)	↑⋆⋆	↑
+A193002	Mannitol (6TMS)	↑⋆	↑⋆
+A231001	Mannose-6-phosphate (1MEOX) (6TMS) MP	↑⋆⋆	↑
+A176006	Ornithine (3TMS)	↑⋆	↓
+A159001	Proline [+CO2] (2TMS)	↑⋆⋆	↑
+A185001	Quinic acid (5TMS)	↑⋆⋆	↑⋆
+A337002	Raffinose (11TMS)	↑	↑⋆
+Asterisks (⋆) indicate significant change (p <0.05, t-test), double asterisks (⋆⋆) indicate significant changes (p <0.05, t-test) after Benjamini–Hochberg multiple testing correction. # indicates that no proteotypic peptides were available for quantitative analysis. HMW and LMW indicate the fraction of predominat occurrence.
+Among the metabolites, 30 annotated substances showed a significant increase during stress phase compared to rest phase in at least one individual. For seven substances, such as citric acid, fructose, galactose, gluconic acid, quinic acid, ribitol, and salicylic acid, the significant increase was observed in both individuals. No metabolite was identified that showed a significant decrease in abundance during endurance cycling. In general, metabolites showed more individual response patterns and less explicit diurnal responsiveness compared to proteins indicating that metabolites were possibly less dependent on diurnal patterns of salivary gland secretion but may rather represent concentrations present in the blood stream that are usually kept at homeostatic levels.
+
+The ratios of the steroid hormones cortisol and androstenedione, which were measured across the time series for all samples taken at 0:00 and 6:00, revealed change in the hormonal status for both individuals throughout the day and during the stress phase of cycling. During the rest phase, a diurnal rhythmic pattern could be observed with highest salivary cortisol concentration at 6:00. In contrast, levels of androstenedione did not show significant diurnal variation during the rest phase. To characterize the balance between catabolic processes activated by cortisol or anabolic processes activated by androstenedione, the ratio of cortisol to androstenedione was calculated (Fig. 4A and B). During the rest phase, samples taken at 0:00 showed a stronger shift toward androstenedione abundance, which in a diurnal pattern changed toward a rather equally balanced abundance between cortisol and androstenedione in the samples taken at 6:00. This suggested increased activity of anabolic process during rest phase in the night period.
+
+ Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+The steroid hormones and protein abundance clusters during different phases of physical work. (A) Ratio of cortisol to androstenedione, as measured at time points 0:00 (gray background) and 6:00 (white background) for female athlete. “inf” indicates that cortisol levels were below detection limit. (B) Ratio of cortisol to androstenedione, as measured at time points 0:00 and 6:00 for male athlete. “inf” indicates that cortisol levels were below detection limit. (C) Principal component analysis of all protein and metabolite abundances of all time points analyzed. Triangles up: female athlete, triangles down: male athlete, green: rest phase, red: stress phase, blue: recovery phase. Numbers next to the symbols indicate the time (hours) before and after start of the cycling event, blue and black colors represent evening or night samples, orange and red colors represent morning and noon samples.
+During the work phase of endurance cycling, the ratio of cortisol to androstenedione during the first day was strongly shifted toward cortisol. This indicated a strong shift to catabolic processes during the initial phase of the cycling event. During the later stress phase, a more balanced ratio between cortisol and androstenedione was observed (Fig. 4A and B). The recovery phase was characterized by low cortisol abundance and thus a strong shift toward androstenedione. This supports the hypothesis, that the recovery phase was particularly characterized by anabolic processes (Fig. 4A and B). Time points with a breakdown of cortisol levels, where cortisol concentration was below detection level, indicate an extreme stress situation of the individuals thereby exhausting the body's capacity of cortisol synthesis. This was especially observed in the male individual at around 40 h and in the female individual toward the end of the endurance phase.
+
+The hormonal analysis pointed out, that there are distinct phases within the stress and recovery status that are characterized by specific catabolic or anabolic processes. To specify these phases in more detail, we carried out a PCA and k-means clustering of all protein and metabolite abundance profiles (Fig. 4C). In the principal component analysis, the stress phase in both athletes clearly separated from rest and recovery phase indicating distinct protein abundance composition. Also the cluster analysis (Supporting Information Fig. S4) clearly marked distinct “waves” of protein abundance
+
+changes within the stress phase as well as during the recovery phase. For the female athlete, the majority of metabolites were assigned to clusters with abundance peaks in the stress phase, while this pattern was not so obvious for the male athlete.
+
+The proteins with high abundances in the distinct phases of rest, stress, and recovery were analyzed for overrepresentation of GO terms for biological processes among the clustered proteins. Although individual clusters provide distinct abundance profiles within the phase of endurance work and recovery, clear functional overrepresentation could be associated only with few of these clusters. However, when taking all time profiles with peaking abundance in the stress phase together, in both athletes, these profiles were characterized by a high abundance of proteins involved in defense responses, proteins with redox function, proteolysis, and signal transduction. Clusters with abundance peaks in the recovery phase contained a significant overrepresentation of proteins involved in immune response. Thereby, different immune responsive proteins displayed distinct abundance profiles with highest abundances at different periods of regeneration. Again, these patterns were observed for both individuals.
+
+3.5 Distribution of proteins to different molecular weight fractions
+
+In total, 221 proteins were identified in low molecular weight fraction (LMW) as well as in the high molecular weight fraction (HMW). The majority of these proteins detected in both fractions could dominantly be assigned to one of the fractions by the number of peptides found in the two fractions differing more than twofold (Supporting Information Table S2). Only 48 proteins were found equally distributed to both fractions. Averaging abundance time profiles from HMW and LMW did not alter the trends shown in Table 2, except for 15 proteins (Supporting Information Table S2), most of which were secreted proteins with many glycosylation sites undergoing a procession to a mature form. Opposite abundance ratios during work phase and rest phase could indicate a transition from one processing status or modification state (i.e. phosphorylation or glycosylation) to another.
+
+4 Discussion
+
+The present study is a case study of the effect of long-lasting endurance workload on composition of salivary protein and metabolite pools. The results and conclusions from our work have pioneer character for individualized salivary diagnostics and can be used as a basis for further, detailed studies on adaptive effects and training effects using higher sample size.
+
+4.1 Variability and limitations of the data set
+
+Although the number of individuals subjected to the detailed profiling analysis in our study was low, we are convinced that general patterns of protein and metabolite abundance changes can well be concluded from this study. The interindividual variability of salivary protein composition was assessed in studying ten different individuals and the intraindividual variability was analyzed from same individuals over multiple days (Fig. 2). The conclusion from this assessment of variability is that comparative quantitation of protein abundances within one individual can well be carried out within an average relative deviation of less than 20%. These findings are in agreement with a recent study of interindividual protein patterns 42, in which the authors of the study also identified a strong variation of protein composition in saliva between individuals, while the changes observed in salivary composition between morning and afternoon were of similar trend in the majority of individuals. Furthermore, a study of inter- and intraindividual variation of protein composition in human urine also resulted in findings of significantly lower intraindividual variation compared to interindividual variation 43.
+
+Thus, in our present case study, the focus on two individuals who were monitored over a long time period allows to specifically and precisely identify factors that are associated with adaptive responses and diurnal rhythms. Within each individual, specific abundance changes associated with diurnal rhythms, adaption to and regeneration from endurance stress can well be quantified without being dimmed by interindividual variation. Particularly, key results, such as effects of long-lasting endurance workloads on immune response proteins were observed for both individuals independently, suggesting that indeed quantitative analysis on an individual basis is justified. In addition, we could also show that stress-induced adaptive effects can override diurnal abundance variations (Supporting Information Fig. S3). Our work is one of the first studies, in which individual protein composition of saliva has been monitored over such long time period to study physiological adaptation and individual regeneration processes.
+
+One limitation of the current data set is that from over 1191 identified proteins, only 232 proteins could be used for quantitative analysis. The strict criteria we have applied for protein quantitation ensured accurate comparison, but particularly interesting proteins may have been excluded from quantitative analysis, as they were observed only in few of the samples. The criteria applied for quantitation required a protein to be identified in at least 50% of the time points within a physiological phase of rest, stress, or recovery. Thus, by principle, low abundant proteins, and proteins present only in particular time periods were excluded from further quantitative analysis. Also, for unbiased metabolite analysis, the quality of compound identification depended on suitable reference databases. We have used the Golm Metabolite Database 37, 38 for spectra matching, but some compounds still remained as unidentified substances. The comparative cluster analysis for the male athlete is further limited by the low number of time points available for the rest phase. However, despite this limitation, general response patterns were similar to what was observed for the female athlete.
+
+4.2 Effects of physical work on saliva composition
+
+Exercise is an allostatic stressor, inducing complex local and systemic adaptations to meet the enhanced muscular energy demand and to maintain homeostasis. Depending on duration and intensity of work, regulatory processes will result in altered levels of involved biomolecules 44. Due to the diurnal variation of protein and metabolite abundances, our initial approach to compare average protein abundances or changes in diurnal amplitude between each phase (Table 2) could only provide some indications of altered abundance or amplitude patterns. Among the proteins found as “stress”-responsive in both athletes, amylase has previously been reported as being indicative of increased sympathetic nervous system activity under stress conditions 19, 45. This supports applicability of the quantitative analysis carried out within this work.
+
+The other four proteins that showed higher abundance in saliva under endurance work in both athletes were LSM4, WDR13, SMR3B, and ZG16B. In the cell nucleus, LSM4 acts as an RNA-binding protein with hypothesized functions in splicing and cell cycle regulation 46, while located at the cytoplasmic membrane, it is suggested to be involved in cell volume regulation 47. WDR13, a member of the Trp–Asp repeat protein family, is hypothesized to be a regulatory protein 48. In both individuals, it displayed a very strong increase in abundance during the stress phase. The small protein SMR3B belongs to the family of basic proline rich proteins (bPRPs) and is precursor of peptide P-B. Members of bPRP family are involved in innate immunity and display antiviral activity, including inhibition of HIV infectivity by specific binding to a virus coat protein 49, 50. ZG16B is a mammalian lectin with a binding pocket for sulphated glucosaminoglycans such as the glycans O-linked to mucins, presumably involved in the gel formation in saliva 51.
+
+The dynamic pattern of metabolites was much more difficult to interpret, as external influences on salivary metabolite pools could not be excluded. However, we could clearly see significant changes in abundance or in diurnal amplitude for those substances that are involved in energy metabolism, such as citric acid, malate, glucose, or creatinine. These substances increased in abundance or decreased in amplitude during the phase of endurance work suggesting an increased metabolic activity to provide energy. Increasing citrate may be indicative of enhanced oxidative phosphorylation, the aerobic energy conversion in mitochondria. Elevated citrate in blood is reported to be a marker for systemic fatigue 52. Malate is a key intermediate in the TCA cycle and it can readily be exchanged from mitochondrion to the cytosol where it can also be fed into gluconeogenesis. The breakdown of proteins to amino acids, which may then feed into gluconeogenesis, is mainly under control of the glucocorticoid cortisol. Creatinine is excreted from working muscle cells after energy release from phosphocreatine, the intermediate buffer for activated phosphates. With enduring work, energy supply is shifted more to metabolization of fatty acids and ketobodies with concomitant glucose decrease, mainly controlled by growth hormone 53. Lactate was not directly measured by classic methods in this study, but a derivative, 3-phenyl-lactic acid (Supporting Information Fig. S3, page 297) showed significant increase for the female athlete during the beginning of the stress phase only.
+
+4.3 Physiological adaptation processes
+
+Enduring physical exercise challenges the integration of systemic and homeostasis demands, related to the muscular energy conversion into work. At the central regulatory level, nervous and endocrine system branches act together to mobilize energy compounds and to give priority to their utilization in the working tissues. In return, they also act to protect the body from wear and to assure sufficient regeneration 54. Thus, clearest indication of substantial adaptive processes associated with long-term endurance work could be seen by changes in the cortisol/androstenedione ratio throughout the cycling event and during regeneration phase. These changes in hormonal balance suggest a transition from a pattern of anabolic process during the night and catabolic processes during the day to a continuous shift toward catabolic processes during endurance work in the stress phase 55. Catabolism and anabolism are induced independently, but both are triggered by thresholds in duration and intensity of exercise 56, 57. Exceeding several hours of work is accompanied by suppression of immune reactions, repair, and regeneration due to maximum cortisol levels. Phases after long-lasting physical exercise often result in below-rest cortisol levels and several days of inflammatory response 58, 59. Depending on the accumulating demands for defense, repair, and regeneration, but also on water/salt balance and thermoregulation, at some point in time, physiological exhaustion begins with the collapse of cortisol signaling. Cortisol deactivation is enhanced, biosynthesis decreases, and susceptibility to cortisol signals is reduced, particularly in immune system. In contrast, androgen levels increase during this phase 60, 61. Also in our case study, both athletes initially exhibit increasing cortisol levels. Later during the endurance stress phase, cortisol levels drop and the cortisol/androstenedione ratio decreases, pointing at physiological exhaustion. Accordingly, the initial regeneration phase was characterized by very low cortisol concentrations, reflecting the dominance of anabolic processes.
+
+The long-term endurance work resulted in two major effects on the salivary protein pool in both athletes. First, the decrease of immune response proteins (Table 2), reflecting the increase in cortisol to androstenedione ratio in the early stress phase, with cortisol having suppressive effects on the immune system 62. Second, the overrepresentation of proteins with functions in redox regulation (Table 3) during the stress phase. Such enduring high-level oxygen consumption generates radicals, including the highly aggressive hydroxide radical, which is particularly harmful to plasma membranes via lipoperoxidation. Oxidative stress is a natural challenge and triggers protective measures, depending on extend, duration, and location. Most of the proteins involved in redox functions contribute to the formation of certain antioxidative metabolites, responding to the type radicals attacking 63. Levels of salicylic acid, which is an outstandingly powerful trap for hydroxide radical, were found to strongly increase during the exercise phase. Recently, salicylate was found to be synthesized also in mammals with assumed protective function 64. Its induction therefore might reflect extreme oxidative stress during cycling event studied here, but an influence of intake of acetylsalicylic acid to prevent inflammatory responses at hours 8, 20, and 32 after begin of the endurance cycling cannot be excluded. New perspectives arise from metabolomic analyses of oxidative stress, realizing that quite different tissue physiological situations such as exercising muscle, early fetal development, eye lens nutrition, and carcinomas share a fundamental factor, namely high oxygen demand at limiting oxygen supply. Under these conditions, polyoles find increasing interest 65. This ubiquitous class of abundant metabolites with antioxidant properties includes nonglucose sugars as well as C-4-, C-5- and C-6-polyols, such as erythritol, ribitol, and inositol, all of which in both athletes were found with significantly higher abundance during the phase of enduring exercise (Table 2).
+
+Table 3. Overrepresentation analysis of GO terms for biological process in proteins with highest abundance in the different phases of physical workload (rest, stress, recovery)
+Athlete	GO category biological process	p-values (Fisher Exact test)
+Rest	Stress	Recovery
+Female	Defense response to bacterium	0.052	0.008	–
+Female	Cell redox homeostasis	0.347	0.028	–
+Female	Oxidation reduction	0.052	0.028	0.232
+Female	Proteolysis	0.347	0.028	–
+Female	Signal transduction	0.023	0.028	0.551
+Female	Unknown	0.189	0.084	0.008
+Female	Immune response	0.613	0.232	0.027
+Male	Defense response to bacterium	1	0.010	1
+Male	Cell redox homeostasis	–	0.035	1
+Male	Oxidation reduction	0.052	0.035	1
+Male	Proteolysis	1	0.035	1
+Male	Signal transduction	0.052	0.035	0.687
+Male	Immune response	0.743	0.273	0.018
+Male	Transport	0.005	1	1
+Significance was calculated based on a Fisher Exact test.
+In summary, our study is one of the first case study examples of an individualized long-term monitoring of salivary protein and metabolite composition at four times during the day over an 180-h period of rest phase, long-term endurance work, and subsequent regeneration. Especially the immune system and redox-protective proteins proved to be sensitive to physical work: proteins involved in immune responses decreased during endurance work in favor of energy mobilization processes and synthesis of protective proteins and metabolites. The abundance of immune response proteins increased again in characteristic waves during regeneration phase. Diurnal protein dynamics during the rest phase provide insights into regular protein and metabolite abundance fluctuations in saliva that are independent of person-to-person variation. Thus, our case study demonstrates the adaptive potential of the human body to long-lasting endurance work and in efficient triggering of regeneration processes. In addition, this work exemplifies the diagnostic potential of individualized saliva sampling to understand stress responses and adaptations.
