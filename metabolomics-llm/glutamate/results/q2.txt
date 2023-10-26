@@ -1,0 +1,22 @@
+
+Model: meta-llama/Llama-2-13b-chat-hf
+Temperature: 0.0 
+LLM: Glutamate is an important neurotransmitter that plays a role in many physiological processes, including exercise. When we exercise, our body experiences changes in glutamate levels and function. Here are some ways in which glutamate can change in response to exercise:
+
+1. Increased release: Exercise can increase the release of glutamate from neurons, leading to increased neurotransmission and synaptic plasticity.
+2. Changes in receptor expression: Exercise can alter the expression of glutamate receptors, such as NMDA and AMPA receptors, which can affect the way glutamate signals are transmitted.
+3. Modulation of synaptic strength: Exercise can modulate the strength of synapses, which can affect the way glutamate signals are transmitted and integrated.
+4. Increased oxidation: Exercise can lead to increased oxidative stress, which can affect glutamate metabolism and signaling.
+5. Changes in glial cells: Exercise can affect the function of glial cells, such as astrocytes and microglia, which play important roles in glutamate homeostasis and clearance.
+6. Increased blood flow: Exercise can increase blood flow to certain areas of the brain, which can affect glutamate levels and function.
+7. Neuroprotective effects: Exercise has been shown to have neuroprotective effects, which can help protect against glutamate-related excitotoxicity and neurodegeneration.
+
+Overall, exercise can have complex and multifaceted effects on glutamate levels and function in the brain, and more research is needed to fully understand these mechanisms. 
+RAG:  According to the text, glutamate is significantly decreased during the recovery period following high-intensity exercise. 
+
+Model: meta-llama/Llama-2-7b-chat-hf 
+Temperature: 0.0 
+LLM: nobody knows.
+
+Exercise can increase the release of glutamate in the brain, which can lead to an increase in the excitability of neurons and a heightened sense of arousal and alertness. This is why many people report feeling more energized and focused after engaging in physical activity. However, the exact mechanisms by which glutamate is affected by exercise are not yet fully understood. Further research is needed to determine how exercise influences glutamate levels and function in the brain. 
+RAG:  According to the text, glutamate changes in response to exercise by being up-regulated. Specifically, the plasma concentration of glutamate was found to increase by 63% after the second exercise bout.
