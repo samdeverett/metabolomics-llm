@@ -7,8 +7,10 @@ import pandas as pd
 import pinecone
 import time
 
+from langchain.embeddings.huggingface import HuggingFaceEmbeddings
 
-def connect(api_key: str, environment: str):
+
+def connect(api_key: str, environment: str) -> None:
     """Connects to Pinecone environment."""
     pinecone.init(
         api_key=api_key,
@@ -40,3 +42,27 @@ def init_index(
         time.sleep(1)
     index = pinecone.Index(name)
     return index
+
+
+def insert(
+        index: pinecone.index.Index,
+        data: pd.DataFrame,
+        embed_model: HuggingFaceEmbeddings,
+        batch_size: int = 100
+    ) -> None:
+    for i in range(0, len(data), batch_size):
+        i_end = min(len(data), i + batch_size)
+        batch = data.iloc[i:i_end]
+        # make id's
+        ids = [f"{row['id']}-{row['chunk_id']}" for _, row in batch.iterrows()]
+        # generate embeddings
+        texts = [row['chunk'] for _, row in batch.iterrows()]
+        embeds = embed_model.embed_documents(texts)
+        # add metadata
+        metadata = [
+            {'text': row['chunk'],
+            'source': row['source'],
+            'title': row['title']} for _, row in batch.iterrows()
+        ]
+        # store in Pinecone index
+        index.upsert(vectors=zip(ids, embeds, metadata))
