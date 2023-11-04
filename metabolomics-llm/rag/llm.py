@@ -1,5 +1,5 @@
 """
-This script provides functionality for initializing a LLM pipeline to be used in RAG.
+This script provides functionality for initializing a LLM to be used in RAG.
 """
 
 import transformers
@@ -81,7 +81,7 @@ def init_text_generation_pipeline(
         model: The model that will be used by the pipeline to make predictions.
         tokenizer: The tokenizer that will be used by the pipeline to encode data for the model.
         max_new_tokens: The maximum numbers of tokens to generate, ignoring the number of tokens in the prompt.
-        do_sample: Whether or not to use sampling ; use greedy decoding otherwise.
+        do_sample: Whether or not to use sampling; use greedy decoding otherwise.
         temperature: The value used to modulate the next token probabilities.
         top_p: If set to float < 1, only the smallest set of most probable tokens with probabilities that add up to top_p or higher are kept for generation.
         repetition_penalty: The parameter for repetition penalty. 1.0 means no penalty. See this paper for more details: https://arxiv.org/pdf/1909.05858.pdf.
