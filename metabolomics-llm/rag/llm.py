@@ -4,8 +4,12 @@ This script provides functionality for initializing a LLM pipeline to be used in
 
 import transformers
 
+from langchain.llms.huggingface_pipeline import HuggingFacePipeline
 from torch import cuda, bfloat16
 from transformers.models.llama.modeling_llama import LlamaForCausalLM
+from transformers.models.llama.tokenization_llama_fast import LlamaTokenizerFast
+from transformers.pipelines.text_generation import TextGenerationPipeline
+from typing import Dict, Any
 
 
 def init_llm(model_id: str, hf_auth_token: str) -> LlamaForCausalLM:
@@ -45,3 +49,32 @@ def init_llm(model_id: str, hf_auth_token: str) -> LlamaForCausalLM:
     model.eval()
 
     return model
+
+
+def init_tokenizer(model_id: str, hf_auth_token: str) -> LlamaTokenizerFast:
+    """Initializes a pretrained Hugging Face model.
+
+    Args:
+        model_id: The model id of a pretrained tokenizer hosted inside a model repo on huggingface.co.
+            Valid model ids can be located at the root-level, like bert-base-uncased,
+            or namespaced under a user or organization name, like dbmdz/bert-base-german-cased.
+        hf_auth_token: Hugging Face access token (https://huggingface.co/settings/tokens).
+    """
+    tokenizer = transformers.AutoTokenizer.from_pretrained(
+        model_id,
+        use_auth_token=hf_auth_token
+    )
+    return tokenizer
+
+
+def init_text_generation_pipeline(
+        model: LlamaForCausalLM,
+        tokenizer: LlamaTokenizerFast,
+        model_kwargs: Dict[str, Any] = {}
+    ) -> TextGenerationPipeline:
+    pass
+
+def init_langchain_pipeline(pipeline: TextGenerationPipeline) -> HuggingFacePipeline:
+    pipeline = HuggingFacePipeline(pipeline=pipeline)
+    return pipeline
+git 
