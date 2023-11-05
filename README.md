@@ -6,35 +6,54 @@ The goal of the project is to create a virtual research assistant specialized in
 
 For a demo, check out [`metabolomics-llm/demo/demo.ipynb`](https://github.com/samdeverett/metabolomics-llm/blob/main/metabolomics-llm/demo/demo.ipynb).
 
----
+## Installation
 
-### Requirements
+1.  Clone the Repository:
 
-#### API Keys
-* Put your CORE API key (which you can get [here](https://core.ac.uk/services/api#form)) in a file called `apikey.py` under the `metabolomics-llm` folder.
-* Put your [Pinecone](https://www.pinecone.io) API key and environment name in a file called `apikey.py` under the `metabolomics-llm/demo` folder.
-* Put a Hugging Face token (which you can get [here](https://huggingface.co/settings/tokens)) in the `metabolomics-llm/demo/apikey.py` file.
+    ```shell
+    git clone -b main hhttps://github.com/samdeverett/metabolomics-llm.git
+    cd metabolomics-llm
+    ```
 
----
+2.  (Optional) Activate a Virtual Environment, e.g.:
 
-### Usage
+    ```shell
+    conda create -n metabolomics-llm python=3.9
+    conda activate metabolomics-llm
+    ```
 
-Code in `metabolomics-llm` folder.
+3.  Install Requirements:
+
+    ```shell
+    pip install -r requirements.txt
+    ```
+
+### API Keys
+
+To pull research papers from [CORE](https://core.ac.uk), you'll need an API key from [here](https://core.ac.uk/services/api#form).
+
+To connect to a [Pinecone](https://www.pinecone.io) vector database, you'll have to register and get an API key along with an environment name.
+
+To access models from Hugging Face, you'll have to register and create a token [here](https://huggingface.co/settings/tokens).
+
+Various scripts and notebooks require these credentials.
+
+## Organization
 
 - `demo` contains a demo of how RAG is implemented to provide high-quality responses to metabolomics related questions.
 
-- `data.py` contains code for pulling works from the [CORE](https://core.ac.uk) API.
+- `rag` contains scripts with the functions necessary for performing RAG as in the demo
+
+- `data.py` contains code for querying research papers from the CORE API.
     > Data for the query `"metabolomics AND language:English AND yearPublished:{year}"` can be found [here](https://drive.google.com/drive/folders/1DCWCLsF7ImHamxzl6tAz7nTZNO_dsvWt?usp=sharing) for years 2000 - 2023. If you'd like to use it, download the parquet files and place them in a `data` folder in the `metabolomics-llm` folder.
 
-- `eda.ipynb` details exploratory data analysis of the data.
+- `eda.ipynb` contains basic exploratory data analysis of the research papers pulled.
 
-- `preprocessing.ipynb` handles processing the data based on insights learned from EDA to prepare for RAG.
+<!-- - `preprocessing.ipynb` handles processing the data based on insights learned from EDA to prepare for RAG. -->
 
-- `utils.py` provides helper functions.
+<!-- - `utils.py` provides helper functions. -->
 
----
-
-### Ethics Statement
+## Safety Statement
 
 We take seriously the risk of developing dangerous AI capabilities. We imagine that these may emerge in one of two ways: 1) creating an AI system that is independently capable of producing catastrophic outcomes (e.g., biohacking, mass poisoning, etc.), or 2) making it easier for malicious human actors to bring about catastrophic outcomes.
 
