@@ -2,7 +2,7 @@
 
 This repo contains code for using retrieval-augmented generation (RAG) to power a metabolomics LLM.
 
-The goal of the project is to create a virtual research assistant specialized in [metabolomics](https://en.wikipedia.org/wiki/Metabolomics) capable of answering questions in detail, generating hypotheses, and synthesizing results.
+The goal of the project is to create a virtual research assistant specialized in [metabolomics](https://en.wikipedia.org/wiki/Metabolomics) capable of answering questions in detail, generating hypotheses, and synthesizing results. It uses Llama 2 within a Hugging Face text generation transformer.
 
 For a demo, check out [`metabolomics-llm/demo/demo.ipynb`](https://github.com/samdeverett/metabolomics-llm/blob/main/metabolomics-llm/demo/demo.ipynb).
 

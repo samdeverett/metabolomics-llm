@@ -1,10 +1,27 @@
+"""
+Generates parquet files with the research papers on metabolomics from CORE.
+These will be processed, chunked, and embedded to be used in RAG.
+"""
+
+import argparse
 import json
 import os
 import pandas as pd
 import requests
+
 from apikey import CORE_API_KEY as API_KEY
 
 API_ENDPOINT = "https://api.core.ac.uk/v3/"
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument(
+     "--start_year", type=int, required=True, help="The earliest year from which to pull papers."
+)
+parser.add_argument(
+    "--end_year", type=int, required=True, help="The latest year from which to pull papers."
+)
+
 
 def query_api(url_fragment, query, limit=100, is_scroll=False, scroll_id=None):
 
@@ -23,6 +40,7 @@ def query_api(url_fragment, query, limit=100, is_scroll=False, scroll_id=None):
         return response.json(), response.elapsed.total_seconds()
     else:
         print(f"Error code {response.status_code}, {response.content}")
+
 
 def scroll(search_url, query, extract_info=lambda x: x):
     results = []
@@ -43,6 +61,7 @@ def scroll(search_url, query, extract_info=lambda x: x):
 
     return results
 
+
 def extract_info(hit):
     # Documentation for all returned fields can be found here: https://api.core.ac.uk/docs/v3#tag/Search/null.
     # Included here are the features we may want to use as features as well as the data we'll need for training (i.e., abstract and text).
@@ -58,11 +77,11 @@ def extract_info(hit):
         "url": hit["downloadUrl"]
     }
 
+
 if __name__ == '__main__':
+    args = parser.parse_args()
     # create dataset per year
-    start_year = 2000
-    end_year = 2023
-    for year in range(start_year, end_year + 1):
+    for year in range(args.start_year, args.end_year + 1):
         print(f"\n{year}\n")
         if os.path.isfile(f"data/{year}.parquet"):
             continue
