@@ -2,6 +2,7 @@ apikey.py
 data/
 .DS_Store
 todo.txt
+metabolomics-llm/glutamate/retrieval.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
