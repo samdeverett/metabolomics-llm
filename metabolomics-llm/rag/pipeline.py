@@ -98,6 +98,7 @@ def init_text_generation_pipeline(
     )
     return text_generation_pipeline
 
+
 def init_langchain_pipeline(pipeline: TextGenerationPipeline) -> HuggingFacePipeline:
     """Initializes a LangChain model for a given Hugging Face TextGenerationPipeline.
     

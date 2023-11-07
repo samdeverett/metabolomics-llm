@@ -33,18 +33,18 @@ Unfortunately, these results are ***not*** all stated in natural language within
 
 Given the fact that some results are presented in tables and as symbols (e.g., ↑) rather than words, we should expect a language model to struggle to correctly answer questions about the nuanced effects of exercise on glutamate. Doing so would require the model diverse capabilites, from parsing tabular data to understanding arrows and ratios to then synthesizing across documents.
 
-To assess an LLM's ability, we will break these analyses of each compenent.
+To assess an LLM's ability, we will break these into analyses of each compenent.
 
-> **Experiment 1: Synthesis**  
-> **Question:** Can the LLM combine insights from the various pieces of context given to it? Does it provide a balanced response if the pieces of context disagree?  
-> **Methodology:** Generate a natural language summary of the result from each paper. With the summaries prepended to the prompt, ask the LLM about the effect of exercise on glutamate and assess it's ability to synthesize the summaries.
+#### **Experiment 1: `Synthesis`**  
+**Question:** Can the LLM combine insights from the various pieces of context given to it? Does it provide a balanced response if the pieces of context disagree?  
+**Methodology:** Generate a natural language summary of the result from each paper. With the summaries prepended to the prompt, ask the LLM about the effect of exercise on glutamate and assess it's ability to synthesize the summaries.
 
-> **Experiment 2: Retrieval**  
-> **Question:** Can the LLM retrieve the useful pieces of context needed to answer a question?
-> **Methodology:** Embed the summaries from Experiment 1. Also embed other pieces of context that do not have to do with the effect of exercise on glutamate. Assess the model's ability to retrieve the summaries when asked about the effect of exercise on glutamate.
+#### **Experiment 2: `Retrieval`**  
+**Question:** Can the LLM retrieve the useful pieces of context needed to answer a question?  
+**Methodology:** Embed the summaries from Experiment 1. Also embed other pieces of context that do not have to do with the effect of exercise on glutamate. Assess the model's ability to retrieve the summaries when asked about the effect of exercise on glutamate.
 
-> **Experiment 3: RAG & Prompt Engineering**  
-> **Question:** If the model retrieves the pieces of context it needs, does it use them properly?
-> **Methodology:** Using the methodology from Experiment 2, ask the LLM about the effect of exercise on glutamate. Compare its response to the response from Experiment 1 where the summaries were prepended in the prompt. Experiment with RAG prompt templates until the output is desirable.
+#### **Experiment 3: `RAG`**  
+**Question:** If the model retrieves the pieces of context it needs, does it use them properly?  
+**Methodology:** Using the methodology from Experiment 2, ask the LLM about the effect of exercise on glutamate. Compare its response to the response from Experiment 1 where the summaries were prepended in the prompt. Experiment with RAG prompt templates until the output is desirable.
 
 If all of these experiments are successful, we will then relax the assumption of having summaries of results and explore learning those summaries or being able to synthesize results directly from the documents (with tables, uncommon symbols, etc.) directly.
