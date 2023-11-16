@@ -2,6 +2,8 @@
 
 This is a proof of concept for developing a research assistant capable of synthesizing results from various papers.
 
+> Note that given the update in this repository's [README](https://github.com/samdeverett/metabolomics-llm/blob/main/README.md), this work remains unfinished.
+
 In the PRISMA review ["Metabolite Concentration Changes in Humans After a Bout of Exercise: a Systematic Review of Exercise Metabolomics Studies"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010904/), Figure 10 shows a mixed consensus on the effect of exercise on glutamate: several experiments show it increases while others show it decreases. We will test an LLM's ability to reproduce this analysis, with and without retrieval-augmented generation (RAG). Positive results would suggest RAG may successfully scale to reproducing these kinds of reviews. Negative results would suggest we should revisit the approach.
 
 The papers from which the experimental results for [glutamate](https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter)) (a.k.a. glutomic acid) are drawn can be found in Table S3 of [this file](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010904/bin/40798_2020_238_MOESM1_ESM.docx). A summary of the results from each paper cited is below.

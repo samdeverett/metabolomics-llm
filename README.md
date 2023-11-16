@@ -6,6 +6,10 @@ The goal of the project is to create a virtual research assistant specialized in
 
 For a demo, check out [`metabolomics-llm/demo/demo.ipynb`](https://github.com/samdeverett/metabolomics-llm/blob/main/metabolomics-llm/demo/demo.ipynb).
 
+## UPDATE (11/16/23)
+
+Due to the recent launch of CustomGPTs and Assistants with Retrieval from OpenAI, we have decided to put this project on hold. It is clear that the development of AI research assistants is accelerating at rates we cannot keep up with as independent, part-time developers. We have pivoted focus to exploring existing solutions for our use case, including the development of our own CustomGPT, the use of others CustomGPTs, and open-source frameworks for advanced RAG like [LlamaIndex](https://www.llamaindex.ai). That said, the code in this repository still works, and it can be a useful exercise to understand it in order to understand what is going on – at a high level – under the hood of more complex systems. If you're interested in this, we suggest checking out the [demo](https://github.com/samdeverett/metabolomics-llm/blob/main/metabolomics-llm/demo/demo.ipynb) and it's underlying [functions](https://github.com/samdeverett/metabolomics-llm/tree/main/metabolomics-llm/rag).
+
 ## Installation
 
 1.  Clone the Repository:
@@ -44,14 +48,15 @@ Various scripts and notebooks require these credentials.
 
 - `rag` contains scripts with the functions necessary for performing RAG as in the demo
 
+- `glutamate` is a deeper proof-of-concept into a language model's ability to synthesize results from various papers.
+    > Note that this is unfinished as per the update above.
+
 - `data.py` contains code for querying research papers from the CORE API.
     > Data for the query `"metabolomics AND language:English AND yearPublished:{year}"` can be found [here](https://drive.google.com/drive/folders/1DCWCLsF7ImHamxzl6tAz7nTZNO_dsvWt?usp=sharing) for years 2000 - 2023. If you'd like to use it, download the parquet files and place them in a `data` folder in the `metabolomics-llm` folder.
 
 - `eda.ipynb` contains basic exploratory data analysis of the research papers pulled.
 
-<!-- - `preprocessing.ipynb` handles processing the data based on insights learned from EDA to prepare for RAG. -->
-
-<!-- - `utils.py` provides helper functions. -->
+- `utils.py` provides helper functions.
 
 ## Safety Statement
 
